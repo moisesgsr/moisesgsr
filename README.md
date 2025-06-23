@@ -26,7 +26,7 @@ Simulação de uma corrida do Mario Kart criada para desafio técnico da DIO.
 
 #### 🤖 [chatbot-inteligente-python](https://github.com/moiseesrichard/chatbot-inteligente-python)
 Chatbot com memória e persistência de dados, simulando inteligência artificial simples.  
-🔧 Tecnologias: `Python`, `JSON`
+🔧 Tecnologias: `Python`, `JSON`, `Flask`, `Html`, `Css`
 
 ---
 
