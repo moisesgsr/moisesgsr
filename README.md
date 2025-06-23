@@ -1,50 +1,50 @@
-<h1 align="center">👨‍💻 Moisés Richard — Desenvolvedor em Formação</h1>
+<h1 align="center">👨‍💻 Moisés Richard — Developer in Training</h1>
 
 <p align="center">
-  Foco em backend, automações e soluções com Python e JavaScript.<br>
-  Em constante aprendizado e buscando oportunidades profissionais na área de desenvolvimento.
+  Focused on backend development, automation, and solutions using Python and JavaScript.<br>
+  Constantly learning and seeking professional opportunities in software development.
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 💻 Estudando **Python**, **JavaScript**, **HTML/CSS** e **Flask**
-- 🔁 Foco em projetos práticos, código limpo e boas práticas
-- ⚙️ Experiência com APIs, manipulação de dados e automações
-- 🎯 Em transição para a área tech com objetivo de atuar como desenvolvedor backend
-
----
-
-### 💼 Projetos em Destaque
-
-#### 🎮 [desafio-mario-kart-dio](https://github.com/moiseesrichard/desafio-mario-kart-dio)
-Simulação de uma corrida do Mario Kart criada para desafio técnico da DIO.  
-🔧 Tecnologias: `JavaScript`, `Node.js`
+- 💻 Studying **Python**, **JavaScript**, **HTML/CSS**, and **Flask**  
+- 🔁 Focused on practical projects, clean code, and best practices  
+- ⚙️ Experience with APIs, data handling, and automation  
+- 🎯 Transitioning to tech with the goal of becoming a backend developer  
 
 ---
 
-#### 🤖 [chatbot-inteligente-python](https://github.com/moiseesrichard/chatbot-inteligente-python)
-Chatbot com memória e persistência de dados, simulando inteligência artificial simples.  
-🔧 Tecnologias: `Python`, `JSON`, `Flask`, `Html`, `Css`
+### 💼 Featured Projects
+
+#### 🎮 [desafio-mario-kart-dio](https://github.com/moisesgsr/desafio-mario-kart-dio)  
+A Mario Kart race simulation created for a DIO technical challenge.  
+🔧 Technologies: `JavaScript`, `Node.js`  
 
 ---
 
-#### 🌦️ [city-weather](https://github.com/moiseesrichard/city-weather)
-Aplicação para consulta de clima em tempo real com API pública.  
-🔧 Tecnologias: `Python`, `requests`, `API`
+#### 🤖 [chatbot-inteligente-python](https://github.com/moisesgsr/chatbot-inteligente-python)  
+Chatbot with memory and data persistence, simulating basic artificial intelligence.  
+🔧 Technologies: `Python`, `JSON`, `Flask`, `HTML`, `CSS`  
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+#### 🌦️ [city-weather](https://github.com/moisesgsr/city-weather)  
+Application for real-time weather data consultation using a public API.  
+🔧 Technologies: `Python`, `Requests`, `API`  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+### 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
@@ -53,18 +53,18 @@ Aplicação para consulta de clima em tempo real com API pública.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moisesgsr&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgsr&layout=compact&theme=radical" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesgsr&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🌐 Contato
+### 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardmoisees)
 
 ---
 
 <p align="center">
-  Desenvolvedor em formação, em busca da primeira oportunidade na área.<br>
-  Obrigado por visitar meu perfil!
+  Developer in training, looking for the first professional opportunity.<br>
+  Thank you for visiting my profile!
 </p>
