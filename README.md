@@ -45,6 +45,8 @@ Application for real-time weather data consultation using a public API.
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Go](https://img.shields.io/badge/Go-1.20-blue?logo=go)
+
 
 ---
 
